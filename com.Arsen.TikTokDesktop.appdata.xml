@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.Arsen.TikTokDesktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name>TikTok Desktop</name>
+  <summary>Смотрите TikTok на вашем Linux</summary>
+  <description>
+    <p>Простое и удобное приложение для просмотра TikTok на базе PyQt6.</p>
+  </description>
+  <launchable type="desktop-id">com.Arsen.TikTokDesktop.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Главное окно приложения</caption>
+      <image>https://raw.githubusercontent.com</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com</url>
+</component>
